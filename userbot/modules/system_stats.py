@@ -137,7 +137,6 @@ async def amireallyalive(alive):
 	                 "===================== \n"
                      f"`User : `{DEFAULTUSER} \n"
 		             "===================== \n"
-                     f"__Running on {UPSTREAM_REPO_BRANCH}__ \n")
 
 
 @register(outgoing=True, pattern="^.aliveu")
