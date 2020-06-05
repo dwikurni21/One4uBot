@@ -137,7 +137,6 @@ async def amireallyalive(alive):
 	                 "===================== \n"
                      f"`User : `{DEFAULTUSER} \n"
 		             "===================== \n"
-                     
 
 
 @register(outgoing=True, pattern="^.aliveu")
