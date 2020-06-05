@@ -137,7 +137,7 @@ async def amireallyalive(alive):
 	                 "===================== \n"
                      f"`User : `{DEFAULTUSER} \n"
 		             "===================== \n"
-                     f"_Bolot__ \n"
+                     f"_Bolot__ \n")
 
 
 @register(outgoing=True, pattern="^.aliveu")
